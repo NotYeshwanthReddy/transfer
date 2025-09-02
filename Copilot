@@ -1,0 +1,21 @@
+Great — here’s the table with the five selected use cases (1, 4, 5, 6, 9) formatted into Use Case | Challenge | Benefits:
+
+
+---
+
+Use Case Suggestion	Challenge	Benefits
+
+Boost Developer Productivity with VS Code + AI	Current internal IDE is slow, unintuitive, and frustrating to use. Developers spend excessive time fixing syntax errors, searching for references, and writing boilerplate code. This impacts morale, slows delivery timelines, and reduces overall productivity.	• Faster coding with AI autocompletion and suggestions<br>• Reduced time spent on repetitive tasks<br>• Improved developer experience and satisfaction<br>• Accelerated delivery of business-critical solutions
+Faster Onboarding for New Developers	New hires struggle with complex Python-based risk and monitoring applications and face a steep learning curve with internal tools. This delays onboarding and increases dependency on senior staff.	• Inline explanations of unfamiliar code<br>• Auto-generated documentation for existing systems<br>• Quicker knowledge transfer and reduced training burden<br>• Faster onboarding and higher productivity for new team members
+Automated Code Quality & Security Checks	Risk and P&L monitoring solutions process sensitive financial data. Manual code reviews are time-consuming and prone to missing vulnerabilities or compliance gaps. This raises regulatory and reputational risks.	• Real-time AI suggestions for secure coding practices<br>• Automated detection of vulnerabilities and coding issues<br>• Auto-generation of unit tests for validation<br>• Higher code quality, reduced audit findings, and stronger compliance
+Knowledge Assistant for Error Resolution	When applications fail, root-cause analysis requires manual log review. It is often unclear whether the issue stems from data, infrastructure, or code — leading to delays and misdirected escalations.	• AI-driven log and error summaries<br>• Clear classification of issues (data, infra, application)<br>• Faster identification of responsible owner/team<br>• Reduced downtime and quicker resolution cycles
+Continuous Learning & Skill Enhancement	Developers and auditors maintaining Python apps lack structured training in modern coding practices. Over time, this creates technical debt and reliance on external consultants.	• Inline coaching and explanations for best practices<br>• Modernization of legacy code with AI recommendations<br>• Improved in-house expertise and reduced technical debt<br>• Builds a self-learning, future-ready workforce
+
+
+
+---
+
+✅ This framing makes it executive-friendly — focusing on the challenge (pain point + impact) and benefits (efficiency, compliance, risk reduction, productivity gains).
+
+Would you like me to also convert this into a polished PowerPoint-ready slide format (like the original image you shared), so you can present directly to senior management?
+
